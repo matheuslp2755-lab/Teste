@@ -1,0 +1,5 @@
+{
+  "name": "MP Social",
+  "description": "A modern social media application interface with user authentication (login and registration) capabilities, built with React and styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
